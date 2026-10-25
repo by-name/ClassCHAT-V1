@@ -8,6 +8,7 @@ echo ============================================
 echo   Class-Chat Startup
 echo ============================================
 echo.
+[INFO] Class-CHAT°æ±¾: V1
 
 REM ========== Python ==========
 set "PYTHON="
